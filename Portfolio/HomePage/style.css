@@ -1,0 +1,34 @@
+
+body, html {
+    height: 100%;
+}
+
+#header {
+    color: black;
+    font-size: 100px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 80px;
+}
+
+
+.parallax {
+    /* The image used */
+    background-image: url("https://res.cloudinary.com/simpleview/image/upload/f_auto,q_75/v1/clients/austin/Homepage_Book_a_Tour_Image_Box_Widget_Credit_Geoff_Duncan__47b7ab26-193a-4512-aec7-163c1374163a.jpg");
+
+    /* Full height */
+    height: 1000px;
+
+    /* Create the parallax scrolling effect */
+
+       background-attachment: fixed;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin: 0;
+       position: relative;
+}
+
+m3 {
+    margin: 1rem 1rem!important;
+}

@@ -1,0 +1,25 @@
+#title {
+    text-align: center;
+}
+
+
+
+body {
+    background-image: url(https://res.cloudinary.com/simpleview/image/upload/f_auto,q_75/v1/clients/austin/Homepage_Book_a_Tour_Image_Box_Widget_Credit_Geoff_Duncan__47b7ab26-193a-4512-aec7-163c1374163a.jpg);
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+nav {
+    font-size: 25px;
+    border: 3px solid black;
+    margin: 50px;
+    background: rgb(125, 127, 127);
+    background: rgba(125, 127, 127, 0.7);
+    border-radius: 10px;
+    padding: 10px;
+}
